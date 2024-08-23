@@ -1,6 +1,6 @@
 package com.introduction;
 
-public class _3Pointer_Java_Cpp {
+public class _03Pointer_Java_Cpp {
 	/*
 	 * Pointers are the variable that store the memory location of another variable.
 	 * in C/CPP,

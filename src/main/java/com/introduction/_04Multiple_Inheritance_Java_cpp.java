@@ -1,6 +1,6 @@
 package com.introduction;
 
-public class _4Multiple_Inheritance_Java_cpp {
+public class _04Multiple_Inheritance_Java_cpp {
 	/*
 	 * 7 Features of OOPL Concepts in Java
 	 * 

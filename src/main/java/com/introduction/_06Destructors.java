@@ -1,6 +1,6 @@
 package com.introduction;
 
-public class _6Destructors {
+public class _06Destructors {
 	/*
 	 *  Constructors -> creating Objects
 	 *  Destructors  -> destroying Objects

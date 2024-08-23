@@ -1,6 +1,6 @@
 package com.introduction;
 
-public class _7_CBV_CBR {
+public class _07_CBV_CBR {
 	
 	/*
 	 * Call By Value - CBV (Java)

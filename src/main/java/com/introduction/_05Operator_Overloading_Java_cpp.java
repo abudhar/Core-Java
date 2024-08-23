@@ -1,6 +1,6 @@
 package com.introduction;
 
-public class _5Operator_Overloading_Java_cpp {
+public class _05Operator_Overloading_Java_cpp {
 	/*
 	 * Polymorphism : poly is greek word (many), Morphism means (Structures/forms)
 	 * 
@@ -25,7 +25,7 @@ public class _5Operator_Overloading_Java_cpp {
 		}
 		
 		public static void main(String[] args) {
-			_5Operator_Overloading_Java_cpp cls = new _5Operator_Overloading_Java_cpp();
+			_05Operator_Overloading_Java_cpp cls = new _05Operator_Overloading_Java_cpp();
 			cls.overloadMethod();
 			cls.overloadMethod("One");
 			cls.overloadMethod("one", "two");
