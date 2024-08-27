@@ -11,4 +11,14 @@ public class _1Tokens {
   * 	3.Keyword/Reserve Words
   * 	4.Operators 
   */
+	public static void main(String[] args) {
+		String String = "Hi";
+		System.out.println(String);
+		String Exception = "ex";
+		System.out.println(Exception);
+		String System = "hiii";
+		java.lang.System.out.println(System);
+		System = System + "_ Bye";
+		java.lang.System.out.println(System);
+	}
 }
